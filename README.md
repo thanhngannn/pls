@@ -15,7 +15,7 @@
             <div class='modal_content'>
               <h1></h1>
              <p></p>
-              <button></button>
+              <button>Bắt đầu nào!</button>
             </div>
           </div>
           <div class='birthday_inner__stage stage1'>
